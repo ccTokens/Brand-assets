@@ -1,6 +1,6 @@
 # Cross-Chain Tokens Brand Resources
 
-## Downloadable vector assets of the Cross-Chain Tokens Logo and Tokens Icon
+## Downloadable assets of the Cross-Chain Tokens Logo and Tokens Icon
 ### Cross-Chain Tokens Logo(circle)
 ![圆—CC透明](https://user-images.githubusercontent.com/74392285/140008157-346d409f-49fb-4de8-a783-7301c0d6e43e.png)
 
