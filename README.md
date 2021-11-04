@@ -26,5 +26,4 @@
 
 
 ### ccBCH(256*256)
-![CCBTC256X256@1x](https://user-images.githubusercontent.com/74392285/140008456-54ecaf09-9ccc-4865-9dba-168932be5264.png)
-
+![CCBCH256X256@1x](https://user-images.githubusercontent.com/74392285/140252596-1762795f-6de8-4bbd-8f4d-b29a28fdc88e.png)
