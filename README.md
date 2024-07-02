@@ -10,20 +10,13 @@
 ### Cross-Chain Tokens Logo(Horizontal)
 ![画板 5 拷贝 3](https://user-images.githubusercontent.com/74392285/140252238-8152286c-d73c-40cf-9395-f98ded0eb3f0.png)
 
-### ccBTC(200*200)
-![ccBTC200X200无白边大](https://user-images.githubusercontent.com/74392285/140008362-aa61ed4c-3a6f-49ed-9ca1-03932cfbef3e.png)
-
 ### ccBTC(256*256)
-![CCBTC256X256@1x](https://user-images.githubusercontent.com/74392285/140008273-d9d39412-060a-44a8-a8cb-d0d6e28d9de4.png)
-
-### ccBCH(200*200)
-![ccBCH200X200无白边大](https://user-images.githubusercontent.com/74392285/140008417-0999a3e7-a52c-4609-bb13-2f5b729782b2.png)
+![ccBTC(256X256)备份 4](https://github.com/ccTokens/Brand-assets/assets/74400026/dc0fafd9-6e22-4ef7-8949-5ce8e72fa8a0)
 
 ### ccBCH(256*256)
-![CCBCH256X256@1x](https://user-images.githubusercontent.com/74392285/140252596-1762795f-6de8-4bbd-8f4d-b29a28fdc88e.png)
+![ccBCH(256X256)备份 10](https://github.com/ccTokens/Brand-assets/assets/74400026/ec80b224-9c2b-416d-a538-a5c32fe2efea)
 
-### ccETH(200*200)
-![ccETH(200X200)](https://user-images.githubusercontent.com/74392285/150060459-18a24114-7d24-4191-b02d-20209443ddb6.png)
 
 ### ccETH(256*256)
-![ccETH(256X256)](https://user-images.githubusercontent.com/74392285/150060613-a58a8431-b4ba-4bf3-906b-d68107c908b1.png)
+
+![ccETH(256X256)备份 12](https://github.com/ccTokens/Brand-assets/assets/74400026/9208363d-716c-4d15-a973-9084000eeb59)
