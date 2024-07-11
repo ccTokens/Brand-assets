@@ -13,10 +13,14 @@
 ### ccBTC(256*256)
 ![ccBTC(256X256)备份 4](https://github.com/ccTokens/Brand-assets/assets/74400026/dc0fafd9-6e22-4ef7-8949-5ce8e72fa8a0)
 
+### ccBTC(32*32)
+![ccBTC(32X32)new 4](https://github.com/ccTokens/Brand-assets/assets/74400026/30ac6d07-d08d-4e71-a07a-6382dbcda36a)
+
 ### ccBCH(256*256)
 ![ccBCH(256X256)备份 10](https://github.com/ccTokens/Brand-assets/assets/74400026/ec80b224-9c2b-416d-a538-a5c32fe2efea)
 
-
+### ccBCH(32*32)
+![ccBCH(32X32)new 3](https://github.com/ccTokens/Brand-assets/assets/74400026/12547cc7-8628-4003-bfbb-e83f63e73557)
 ### ccETH(256*256)
 
 ![ccETH(256X256)备份 12](https://github.com/ccTokens/Brand-assets/assets/74400026/9208363d-716c-4d15-a973-9084000eeb59)
